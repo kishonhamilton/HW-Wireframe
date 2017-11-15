@@ -1,0 +1,64 @@
+#main-content {
+    width: 960px;
+    background: #777777;
+
+}
+
+.relative {
+    position: relative;
+    text-align: center;
+    left: 20%;
+    height: 100px;
+    width: 960px;
+    background: #ebebeb;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.nav {
+    position: relative;
+    text-align: center;
+    left: 20%;
+    height: 100px;
+    width: 960px;
+    padding: 10px;
+    margin: 10px;
+    background: #ebebeb;
+
+}
+
+.section {
+    position: relative;
+    text-align: center;
+    left: 20%;
+    height: 400px;
+    width: 20%;
+    padding: 10px;
+    margin: 10px;
+    background: #ebebeb;
+}
+
+.aside {
+    position: relative;
+    text-align: center;
+    float: left;
+    height: 400px;
+    width: 20%;
+    padding: 10px;
+    margin: 10px;
+    background: #ebebeb;
+
+}
+
+.footer {
+    position: relative;
+    text-align: center;
+    left: 20%;
+    height: 100px;
+    width: 960px;
+    background: #ebebeb;
+    padding: 10px;
+    margin: 10px;
+
+}
